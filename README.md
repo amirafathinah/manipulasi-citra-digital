@@ -102,11 +102,7 @@ Selain itu, dilakukan analisis pengambilan keputusan untuk memilih teknik yang p
 Bagian ini berisi refleksi pribadi setelah mengerjakan eksperimen manipulasi citra. Refleksi mencakup teknik yang paling mudah dipahami, teknik yang paling menantang, perbedaan antara transformasi logaritmik dan gamma, pemahaman baru tentang nilai pixel, serta teknik yang paling mungkin dipilih jika membuat aplikasi peningkatan kualitas citra.
 
 ## Citra yang Digunakan
-Project ini menggunakan dua citra digital berbeda yang disimpan di folder `images/`. Kedua citra digunakan untuk eksperimen resize, blending, dan analisis transformasi citra.
-
-Contoh file citra:
-- `image1.jpg`
-- `image2.jpg`
+Project ini menggunakan dua citra digital berbeda yang disimpan di folder `images/`. Kedua citra digunakan untuk eksperimen resize, blending, dan analisis transformasi citra. 
 
 ## Library yang Digunakan
 Project ini menggunakan library Python berikut:
